@@ -1,6 +1,6 @@
 ## 👋 Hi there!  
 
-- 🚀 Building a **Family Feud-style quiz app** for my church, where players buzz in to answer.  
+- 🚀 Currently building a **Family Feud-style quiz app** for my church, where players buzz in to answer.  
   - **Backend:** Spring Boot (API & WebSocket)  
   - **Frontend:** React.js, Tailwind CSS  
   - **Hardware:** ESP32 WiFi-powered buzzer (programmed using arduino IDE)
