@@ -1,11 +1,21 @@
-## 👋 Hi there!  
+## 👋 Hello there!
 
-- 🚀 Currently building a **Family Feud-style quiz app** for my church, where players buzz in to answer.  
-  - **Backend:** Spring Boot (API & WebSocket)  
-  - **Frontend:** React.js, Tailwind CSS  
-  - **Hardware:** ESP32 WiFi-powered buzzer (programmed using arduino IDE)
-- 🌱 Learning **Spring Boot** to level up my backend skills 
-- 🎸 Improving my **electric guitar (Grade 5)** & love reading **detective novels**  
+I'm Barnabas — a curious builder who enjoys combining tech and creativity to create meaningful and fun projects.
 
-## 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barnabasT) 
+### 🚀 What I'm Building  
+Currently developing a **Family Feud-style quiz app** with real-time buzzing features:
+
+- **Backend:** Spring Boot (REST API & WebSocket)  
+- **Frontend:** React.js & Tailwind CSS  
+- **Hardware:** Custom **WiFi-powered buzzer using ESP32**, programmed with Arduino IDE  
+
+### 🌱 What I'm Learning  
+- Deepening my skills in **Spring Boot** and backend architecture  
+- Exploring **real-time systems** and hardware-software integration  
+
+### 🎸 Beyond Code  
+- Practicing **electric guitar (Grade 5)**  
+- Enjoy reading **detective novels** — always up for a good mystery  
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barnabasT)
